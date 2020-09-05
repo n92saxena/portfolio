@@ -1,0 +1,270 @@
+
+body {
+    text-align : center;
+    margin : 0;
+    background-color: #f1f3f8;
+}
+
+h1 {
+    margin : 0;
+    padding : 200px 0 0;
+    font-family: 'Sacramento', cursive;
+    font-size : 5rem;
+    color : #40a8c4;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+    color : #a2d5f2;
+    padding-top : 0;
+}
+
+h3 {
+    color : #40a8c4;
+    font-family: 'Merriweather', serif;
+}
+
+h4 {
+    color : #a2d5f2;
+    font-family: 'Merriweather', serif;
+}
+
+p {
+    color : #797a7e;
+    font-family: 'Montserrat', sans-serif;
+    line-height : 2;
+}
+
+li {
+    color : #797a7e;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.profile {
+    padding : 100px 0 10px;
+    width : 50%;
+    margin : 0 auto;
+}
+
+.cloud-top {
+    position : absolute;
+    right : 150px;
+    top : 70px;
+    width : 200px;
+}
+
+.cloud-bottom {
+    position : absolute;
+    bottom : 400px;
+    left : 100px;
+    width : 200px;
+}
+
+.top-container {
+    text-align : center;
+    position: relative; 
+}
+
+hr {
+    border : dotted #d6e0f0 5px;
+    border-bottom : none;
+    width : 5%;
+    margin : 50px auto;
+}
+
+.middle-container {
+    margin-bottom : 50px;
+}
+
+.performance {
+    width : 60%;
+    position : relative;
+    height : 210px;
+    margin : 50px auto 20px auto;
+}
+
+.gad {
+    padding-top : 20px;
+    position : absolute;
+    top : 20px;
+    left : 20px;
+    width : 20%;
+}
+
+.social {
+    padding-top : 20px;
+    position : absolute;
+    top : 23px;
+    left : 320px;
+    width : 20%;
+}
+
+.seo {
+    padding-top : 20px;
+    position : absolute;
+    top : 20px;
+    right : 20px;
+    width : 20%;
+}
+
+.adwords {
+    width : 50%;
+}
+
+.facebook {
+    width : 50%;
+}
+
+.seo-img {
+    width : 50%;
+}
+
+.technical {
+    width : 60%;
+    position : relative;
+    height : 470px;
+    margin : 100px auto;
+}
+
+.gtm {
+    padding-top : 20px;
+    position : absolute;
+    top : 20px;
+    left : 20px;
+    width : 20%;
+}
+
+.analytics {
+    padding-top : 20px;
+    position : absolute;
+    top : 20px;
+    left : 320px;
+    width : 20%;
+}
+
+.html {
+    padding-top : 20px;
+    position : absolute;
+    top : 20px;
+    right : 20px;
+    width : 20%;
+}
+
+.css {
+    padding-top : 20px;
+    position : absolute;
+    top : 250px;
+    left : 20px;
+    width : 20%;
+}
+
+.javaScript {
+    padding-top : 20px;
+    position : absolute;
+    top : 250px;
+    left : 320px;
+    width : 20%;
+}
+.tag {
+    width : 50%;
+}
+
+.analytics-logo {
+    width : 50%;
+}
+
+.html-logo {
+    width : 50%;
+}
+
+.css-logo {
+    width : 50%;
+}
+
+.javaScipt-logo {
+    width : 50%;
+}
+
+.portfolio {
+    width : 50%;
+    margin : 70px auto;
+}
+
+.tribe3 {
+    margin-bottom : 100px auto;
+}
+
+.t3-logo {
+    width : 15%;
+}
+
+.md-logo {
+    width : 10%;
+}
+
+.mdf-logo {
+    width : 17%;
+}
+
+.clients {
+    margin-bottom : 50px;
+}
+
+.contact {
+    width : 50%;
+    margin : 50px auto;
+    padding : 5px 0 20px 0;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+.bottom-container {
+    background-color : #66bfbf;
+    padding : 50px 0 20px;
+    height : 100px;
+}
+
+.footer-link {
+    color : #11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration : none;
+    margin : 10px 20px;
+}
+
+a:hover {
+    color : #eaf5f5;
+}
+
+.skills {
+    padding-top : 10px;
+}
+
+.clients {
+    padding-top : 20px;
+}
